@@ -1,7 +1,7 @@
 from __future__ import print_function
 import os
 import time
-from httprpc import RPCServer, RPCClient
+from pythonrpc import RPCServer, RPCClient
 
 
 # send class objects and keywords
